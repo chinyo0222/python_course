@@ -3,14 +3,14 @@ import sys;
 
 # hello world 
 
-print('hello world line 1')
+print('hello ')
 
-print('hello world line 2')
+print('hello ')
 
-print('hello world line 3')
+print('hello ')
 
-print('hello world line  xx')
-fdsfds
+print('hello ')
+
 # print hellowrld with variable 
 def hello():
     print('hello world line 4')
